@@ -138,6 +138,7 @@ FLOWS = {
         "faa_delays",
         "fibaro",
         "filesize",
+        "fimer",
         "fireservicerota",
         "fivem",
         "fjaraskupan",

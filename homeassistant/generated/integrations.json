@@ -1690,6 +1690,12 @@
       "config_flow": false,
       "iot_class": "local_push"
     },
+    "fimer": {
+      "name": "ABB REST INVERTOR",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "cloud_polling"
+    },
     "fints": {
       "name": "FinTS",
       "integration_type": "hub",

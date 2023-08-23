@@ -5,6 +5,7 @@ To update, run python3 -m script.hassfest
 
 APPLICATION_CREDENTIALS = [
     "electric_kiwi",
+    "fimer",
     "geocaching",
     "google",
     "google_assistant_sdk",

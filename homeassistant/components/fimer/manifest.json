@@ -1,0 +1,13 @@
+{
+  "domain": "fimer",
+  "name": "ABB REST INVERTOR",
+  "codeowners": ["@lcioranu"],
+  "config_flow": true,
+  "dependencies": ["application_credentials"],
+  "documentation": "https://www.home-assistant.io/integrations/fimer",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
